@@ -1,0 +1,31 @@
+.parent {
+    background-color: yellow;
+    width: 800px;
+    height: 300px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 50px;
+    padding-bottom: 30px;
+    text-align: left;
+}
+
+.child {
+    line-height: 70px;
+    padding: 0px;
+}
+
+.child-one {
+    background-color: blue;
+    padding: 5px;
+}
+
+.child-two {
+    background-color: aliceblue;
+    padding: 5px;
+}
+
+
+.child-three {
+    background-color: green;
+    padding: 5px;
+ }
